@@ -1,0 +1,24 @@
+[31-Aug-2020 06:46:35 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`misbahunnursch_u11461auj`.`tb_materi`, CONSTRAINT `tb_materi_ibfk_1` FOREIGN KEY (`id_roleguru`) REFERENCES `tb_roleguru` (`id_roleguru`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php:175
+Stack trace:
+#0 /home/misbahunnursch/public_html/maroom/Guru/modul/models.php(175): mysqli_query(Object(mysqli), 'INSERT INTO tb_...')
+#1 /home/misbahunnursch/public_html/maroom/Guru/index.php(422): include('/home/misbahunn...')
+#2 {main}
+  thrown in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php on line 175
+[31-Aug-2020 06:46:55 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`misbahunnursch_u11461auj`.`tb_materi`, CONSTRAINT `tb_materi_ibfk_1` FOREIGN KEY (`id_roleguru`) REFERENCES `tb_roleguru` (`id_roleguru`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php:175
+Stack trace:
+#0 /home/misbahunnursch/public_html/maroom/Guru/modul/models.php(175): mysqli_query(Object(mysqli), 'INSERT INTO tb_...')
+#1 /home/misbahunnursch/public_html/maroom/Guru/index.php(422): include('/home/misbahunn...')
+#2 {main}
+  thrown in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php on line 175
+[31-Aug-2020 06:47:00 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`misbahunnursch_u11461auj`.`tb_materi`, CONSTRAINT `tb_materi_ibfk_1` FOREIGN KEY (`id_roleguru`) REFERENCES `tb_roleguru` (`id_roleguru`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php:175
+Stack trace:
+#0 /home/misbahunnursch/public_html/maroom/Guru/modul/models.php(175): mysqli_query(Object(mysqli), 'INSERT INTO tb_...')
+#1 /home/misbahunnursch/public_html/maroom/Guru/index.php(422): include('/home/misbahunn...')
+#2 {main}
+  thrown in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php on line 175
+[01-Sep-2020 09:38:29 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`misbahunnursch_u11461auj`.`tb_materi`, CONSTRAINT `tb_materi_ibfk_1` FOREIGN KEY (`id_roleguru`) REFERENCES `tb_roleguru` (`id_roleguru`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php:175
+Stack trace:
+#0 /home/misbahunnursch/public_html/maroom/Guru/modul/models.php(175): mysqli_query(Object(mysqli), 'INSERT INTO tb_...')
+#1 /home/misbahunnursch/public_html/maroom/Guru/index.php(422): include('/home/misbahunn...')
+#2 {main}
+  thrown in /home/misbahunnursch/public_html/maroom/Guru/modul/models.php on line 175
